@@ -201,7 +201,6 @@ credit-card-cx-complaint-analysis/
 └── README.md
 ```
 
-> Note: rename `Untitled.ipynb` → `credit_card_complaint_analysis.ipynb` and `sql_anaysis.sql` → `sql_analysis.sql` before pushing, so the structure matches the repo exactly.
 
 ---
 
