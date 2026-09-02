@@ -160,13 +160,11 @@ The SQL/Python findings above were turned into a two-page interactive Power BI d
 
 ![Power BI dashboard — page 1](screenshot/pic1.png)
 
-🎥 Walkthrough: `screenshot/video1.mp4`
-
 **Page 2**
 
 ![Power BI dashboard — page 2](screenshot/pic2.png)
 
-🎥 Walkthrough: `screenshot/video2.mp4`
+🎥 Walkthrough: `screenshot/video.mp4`
 
 
 ---
