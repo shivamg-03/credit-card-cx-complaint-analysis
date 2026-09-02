@@ -47,7 +47,7 @@ Credit card issuers receive thousands of complaints a year. Not all complaints a
 ### 1. Load Raw Data
 The raw CFPB export (~1.3GB) is read in 50k-row chunks, keeping only the columns needed and dropping rows without a narrative — so memory never holds the full file at once. Filtered down to `Credit card or prepaid card` complaints.
 
-![Load raw data in chunks](screenshot/screenshot_23.png)
+![Load raw data in chunks](screenshot/screenshot23.png)
 
 ### 2. Clean Narrative Text
 CFPB narratives contain redaction placeholders (`XX/XX/2023`, `XXXX`) inserted for privacy. These are stripped out with regex before any NLP is run, so they don't show up as noise in word frequency or sentiment scoring.
