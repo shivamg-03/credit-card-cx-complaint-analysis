@@ -168,7 +168,6 @@ The SQL/Python findings above were turned into a two-page interactive Power BI d
 
 🎥 Walkthrough: `screenshot/video2.mp4`
 
-*(Dashboard is still in progress — screenshots reflect current state.)*
 
 ---
 
